@@ -1,0 +1,6 @@
+
+dphp:S103S"KSplit this 140 characters long line (which is greater than 120 authorized).(üü²Øûÿÿÿÿ
+dphp:S103["KSplit this 144 characters long line (which is greater than 120 authorized).(üü²Øûÿÿÿÿ
+e	php:S11924"PDefine a constant instead of duplicating this literal " does not exist" 3 times.(ñ½€ø
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Éúµó
+Pphp:S131"7Add a "case default" clause to this "switch" statement.(Ó ÝÆüÿÿÿÿ
